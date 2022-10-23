@@ -1,22 +1,17 @@
-
-<html xmlns:v="urn:schemas-microsoft-com:vml"
-xmlns:o="urn:schemas-microsoft-com:office:office"
-xmlns:w="urn:schemas-microsoft-com:office:word"
-xmlns:m="http://schemas.microsoft.com/office/2004/12/omml"
-xmlns="http://www.w3.org/TR/REC-html40">
-
-<head>
-<meta http-equiv=Content-Type content="text/html; charset=us-ascii">
-<meta name=ProgId content=Word.Document>
-<meta name=Generator content="Microsoft Word 15">
-<meta name=Originator content="Microsoft Word 15">
-<link rel=File-List href="100-days-of-code(2)_files/filelist.xml">
-<link rel=Edit-Time-Data href="100-days-of-code(2)_files/editdata.mso">
+<html xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns:m="http://schemas.microsoft.com/office/2004/12/omml" xmlns="http://www.w3.org/TR/REC-html40"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=us-ascii">
+<meta name="ProgId" content="Word.Document">
+<meta name="Generator" content="Microsoft Word 15">
+<meta name="Originator" content="Microsoft Word 15">
+<link rel="File-List" href="100-days-of-code(2)_files/filelist.xml">
+<link rel="Edit-Time-Data" href="100-days-of-code(2)_files/editdata.mso">
 <!--[if !mso]>
+<style>
 v\:* {behavior:url(#default#VML);}
 o\:* {behavior:url(#default#VML);}
 w\:* {behavior:url(#default#VML);}
 .shape {behavior:url(#default#VML);}
+</style>
 <![endif]--><!--[if gte mso 9]><xml>
  <o:DocumentProperties>
   <o:Author>Jared Willis</o:Author>
@@ -35,9 +30,8 @@ w\:* {behavior:url(#default#VML);}
   <o:Version>16.00</o:Version>
  </o:DocumentProperties>
 </xml><![endif]-->
-<link rel=themeData href="100-days-of-code(2)_files/themedata.thmx">
-<link rel=colorSchemeMapping
-href="100-days-of-code(2)_files/colorschememapping.xml">
+<link rel="themeData" href="100-days-of-code(2)_files/themedata.thmx">
+<link rel="colorSchemeMapping" href="100-days-of-code(2)_files/colorschememapping.xml">
 <!--[if gte mso 9]><xml>
  <w:WordDocument>
   <w:SpellingState>Clean</w:SpellingState>
@@ -1123,140 +1117,119 @@ ul
  </o:shapelayout></xml><![endif]-->
 </head>
 
-<body lang=EN-US link=blue vlink=purple style='tab-interval:.5in;word-wrap:
-break-word'>
+<body lang="EN-US" link="blue" vlink="purple" style="tab-interval:.5in;word-wrap:
+break-word">
 
-<div class=WordSection1><w:Sdt SdtDocPart="t" DocPartType="Table of Contents"
- DocPartUnique="t" ID="-1373074023">
- <p class=MsoToc1 style='tab-stops:right dotted 467.5pt'><!--[if supportFields]><span
+<div class="WordSection1"><w:sdt sdtdocpart="t" docparttype="Table of Contents" docpartunique="t" id="-1373074023">
+ <p class="MsoToc1" style="tab-stops:right dotted 467.5pt"><!--[if supportFields]><span
  lang=EN><span style='mso-element:field-begin'></span><span
  style='mso-spacerun:yes'>&nbsp;</span>TOC \h \u \z \n <span style='mso-element:
- field-separator'></span></span><![endif]--><span lang=EN><span
- class=MsoHyperlink><span style='mso-no-proof:yes'><a href="#_Toc117411078">#100-days-of-code</a></span></span><span
- style='mso-no-proof:yes'><o:p></o:p></span><w:sdtPr></w:sdtPr></span></p>
- <p class=MsoToc1 style='tab-stops:right dotted 467.5pt'><span
- class=MsoHyperlink><span lang=EN style='mso-no-proof:yes'><a
- href="#_Toc117411079">Day 0-1</a></span></span><span lang=EN style='mso-no-proof:
- yes'><o:p></o:p></span></p>
- <p class=MsoToc2 style='tab-stops:right dotted 467.5pt'><span
- class=MsoHyperlink><span lang=EN style='mso-no-proof:yes'><a
- href="#_Toc117411080">October 21, 2022 (Total Time&#8211;3 Hours)</a></span></span><span
- lang=EN style='mso-no-proof:yes'><o:p></o:p></span></p>
- <p class=MsoToc1 style='tab-stops:right dotted 467.5pt'><span
- class=MsoHyperlink><span lang=EN style='mso-no-proof:yes'><a
- href="#_Toc117411081">Day 2</a></span></span><span lang=EN style='mso-no-proof:
- yes'><o:p></o:p></span></p>
- <p class=MsoToc2 style='tab-stops:right dotted 467.5pt'><span
- class=MsoHyperlink><span lang=EN style='mso-no-proof:yes'><a
- href="#_Toc117411082">October 22, 2022 (Total Time&#8211;2 Hours)</a></span></span><span
- lang=EN style='mso-no-proof:yes'><o:p></o:p></span></p>
- <p class=MsoNormal style='margin-top:3.0pt;margin-right:0in;margin-bottom:
- 4.0pt;margin-left:.25in;line-height:normal'><!--[if supportFields]><span
- lang=EN><span style='mso-element:field-end'></span></span><![endif]--><span
- lang=EN><u><span style='color:#1155CC'><o:p><span style='text-decoration:none'>&nbsp;</span></o:p></span></u></span></p>
-</w:Sdt>
+ field-separator'></span></span><![endif]--><span lang="EN"><span class="MsoHyperlink"><span style="mso-no-proof:yes"><a href="#_Toc117411078">#100-days-of-code</a></span></span><span style="mso-no-proof:yes"><o:p></o:p></span><w:sdtpr></w:sdtpr></span></p>
+ <p class="MsoToc1" style="tab-stops:right dotted 467.5pt"><span class="MsoHyperlink"><span lang="EN" style="mso-no-proof:yes"><a href="#_Toc117411079">Day 0-1</a></span></span><span lang="EN" style="mso-no-proof:
+ yes"><o:p></o:p></span></p>
+ <p class="MsoToc2" style="tab-stops:right dotted 467.5pt"><span class="MsoHyperlink"><span lang="EN" style="mso-no-proof:yes"><a href="#_Toc117411080">October 21, 2022 (Total Time–3 Hours)</a></span></span><span lang="EN" style="mso-no-proof:yes"><o:p></o:p></span></p>
+ <p class="MsoToc1" style="tab-stops:right dotted 467.5pt"><span class="MsoHyperlink"><span lang="EN" style="mso-no-proof:yes"><a href="#_Toc117411081">Day 2</a></span></span><span lang="EN" style="mso-no-proof:
+ yes"><o:p></o:p></span></p>
+ <p class="MsoToc2" style="tab-stops:right dotted 467.5pt"><span class="MsoHyperlink"><span lang="EN" style="mso-no-proof:yes"><a href="#_Toc117411082">October 22, 2022 (Total Time–2 Hours)</a></span></span><span lang="EN" style="mso-no-proof:yes"><o:p></o:p></span></p>
+ <p class="MsoNormal" style="margin-top:3.0pt;margin-right:0in;margin-bottom:
+ 4.0pt;margin-left:.25in;line-height:normal"><!--[if supportFields]><span
+ lang=EN><span style='mso-element:field-end'></span></span><![endif]--><span lang="EN"><u><span style="color:#1155CC"><o:p><span style="text-decoration:none">&nbsp;</span></o:p></span></u></span></p>
+</w:sdt>
 
-<p class=MsoNormal><span lang=EN><o:p>&nbsp;</o:p></span></p>
+<p class="MsoNormal"><span lang="EN"><o:p>&nbsp;</o:p></span></p>
 
-<h1><a name="_9xdyx2mdncg7"></a><span lang=EN><o:p>&nbsp;</o:p></span></h1>
+<h1><a name="_9xdyx2mdncg7"></a><span lang="EN"><o:p>&nbsp;</o:p></span></h1>
 
-<h1><a name="_3csrseju0p7x"></a><span lang=EN><o:p>&nbsp;</o:p></span></h1>
+<h1><a name="_3csrseju0p7x"></a><span lang="EN"><o:p>&nbsp;</o:p></span></h1>
 
-<span lang=EN style='font-size:20.0pt;line-height:115%;font-family:"Arial",sans-serif;
+<span lang="EN" style="font-size:20.0pt;line-height:115%;font-family:&quot;Arial&quot;,sans-serif;
 mso-fareast-font-family:Arial;mso-ansi-language:EN;mso-fareast-language:EN-US;
-mso-bidi-language:AR-SA'><br clear=all style='mso-special-character:line-break;
-page-break-before:always'>
+mso-bidi-language:AR-SA"><br clear="all" style="mso-special-character:line-break;
+page-break-before:always">
 </span>
 
-<h1><a name="_b5b7edsrzd1l"></a><span lang=EN><o:p>&nbsp;</o:p></span></h1>
+<h1><a name="_b5b7edsrzd1l"></a><span lang="EN"><o:p>&nbsp;</o:p></span></h1>
 
-<h1><a name="_Toc117411078"><span lang=EN>#100-days-of-code</span></a></h1>
+<h1><a name="_Toc117411078"><span lang="EN">#100-days-of-code</span></a></h1>
 
-<p class=MsoNormal><span lang=EN><o:p>&nbsp;</o:p></span></p>
+<p class="MsoNormal"><span lang="EN"><o:p>&nbsp;</o:p></span></p>
 
-<h1><a name="_Toc117411079"><span lang=EN>Day 0-1</span></a></h1>
+<h1><a name="_Toc117411079"><span lang="EN">Day 0-1</span></a></h1>
 
-<h2><a name="_Toc117411080"><span lang=EN>October 21, 2022 (Total Time&#8211;3
+<h2><a name="_Toc117411080"><span lang="EN">October 21, 2022 (Total Time–3
 Hours)</span></a></h2>
 
-<p class=MsoNormal><span lang=EN><o:p>&nbsp;</o:p></span></p>
+<p class="MsoNormal"><span lang="EN"><o:p>&nbsp;</o:p></span></p>
 
-<p class=MsoNormal><span lang=EN>Here I go. I&#8217;ve been a teacher for 19
-years and am ready for a new adventure. I&#8217;m making a mid-career change to
+<p class="MsoNormal"><span lang="EN">Here I go. I’ve been a teacher for 19
+years and am ready for a new adventure. I’m making a mid-career change to
 coding. My goals are to study predictive analytics and machine learning. Python
-seems like the reasonable best place to start. <span class=GramE>But,</span>
-I&#8217;m going to start with Java.</span></p>
+seems like the reasonable best place to start. <span class="GramE">But,</span>
+I’m going to start with Java.</span></p>
 
-<p class=MsoNormal><span lang=EN><o:p>&nbsp;</o:p></span></p>
+<p class="MsoNormal"><span lang="EN"><o:p>&nbsp;</o:p></span></p>
 
-<p class=MsoNormal><span lang=EN>I spent close to two weeks with <span
-class=SpellE>Bloomtech</span> but didn&#8217;t feel that the boot camp route
+<p class="MsoNormal"><span lang="EN">I spent close to two weeks with <span class="SpellE">Bloomtech</span> but didn’t feel that the boot camp route
 was right for me. So here we go!</span></p>
 
-<p class=MsoNormal><span lang=EN><o:p>&nbsp;</o:p></span></p>
+<p class="MsoNormal"><span lang="EN"><o:p>&nbsp;</o:p></span></p>
 
-<ol style='margin-top:0in' start=1 type=1>
- <li class=MsoNormal style='mso-list:l2 level1 lfo2'><b style='mso-bidi-font-weight:
-     normal'><i style='mso-bidi-font-style:normal'><span lang=EN>Started with
-     Beginning Programming for Dummies</span></i></b><span lang=EN>, 6th ed. </span></li>
+<ol style="margin-top:0in" start="1" type="1">
+ <li class="MsoNormal" style="mso-list:l2 level1 lfo2"><b style="mso-bidi-font-weight:
+     normal"><i style="mso-bidi-font-style:normal"><span lang="EN">Started with
+     Beginning Programming for Dummies</span></i></b><span lang="EN">, 6th ed. </span></li>
 </ol>
 
-<p class=MsoNormal><span lang=EN><o:p>&nbsp;</o:p></span></p>
+<p class="MsoNormal"><span lang="EN"><o:p>&nbsp;</o:p></span></p>
 
-<h1><a name="_Toc117411081"><span lang=EN>Day 2</span></a></h1>
+<h1><a name="_Toc117411081"><span lang="EN">Day 2</span></a></h1>
 
-<h2><a name="_Toc117411082"><span lang=EN>October 22, 2022 (Total Time&#8211;2
+<h2><a name="_Toc117411082"><span lang="EN">October 22, 2022 (Total Time–2
 Hours)</span></a></h2>
 
-<p class=MsoNormal><span lang=EN><o:p>&nbsp;</o:p></span></p>
+<p class="MsoNormal"><span lang="EN"><o:p>&nbsp;</o:p></span></p>
 
-<p class=MsoNormal><span lang=EN>Continued studying with the book above.</span></p>
+<p class="MsoNormal"><span lang="EN">Continued studying with the book above.</span></p>
 
-<ol style='margin-top:0in' start=1 type=1>
- <li class=MsoNormal style='mso-list:l0 level1 lfo3'><b style='mso-bidi-font-weight:
-     normal'><i style='mso-bidi-font-style:normal'><span lang=EN>Started with
-     Beginning Programming for Dummies</span></i></b><span lang=EN>, 6th ed.</span></li>
+<ol style="margin-top:0in" start="1" type="1">
+ <li class="MsoNormal" style="mso-list:l0 level1 lfo3"><b style="mso-bidi-font-weight:
+     normal"><i style="mso-bidi-font-style:normal"><span lang="EN">Started with
+     Beginning Programming for Dummies</span></i></b><span lang="EN">, 6th ed.</span></li>
 </ol>
 
-<p class=MsoNormal><span lang=EN><o:p>&nbsp;</o:p></span></p>
+<p class="MsoNormal"><span lang="EN"><o:p>&nbsp;</o:p></span></p>
 
-<p class=MsoNormal><span lang=EN>Also, I got this book about building text
-adventures with Java. I chose this book because when I was at <span
-class=SpellE>BloomTech</span> for 2 weeks, they were using something very
-similar. I&#8217;m so glad I spent $10 bucks on this rather than go passed my
+<p class="MsoNormal"><span lang="EN">Also, I got this book about building text
+adventures with Java. I chose this book because when I was at <span class="SpellE">BloomTech</span> for 2 weeks, they were using something very
+similar. I’m so glad I spent $10 bucks on this rather than go passed my
 free trial and be on the hook for $40k.</span></p>
 
-<p class=MsoNormal><span lang=EN><o:p>&nbsp;</o:p></span></p>
+<p class="MsoNormal"><span lang="EN"><o:p>&nbsp;</o:p></span></p>
 
-<ol style='margin-top:0in' start=2 type=1>
- <li class=MsoNormal style='mso-list:l0 level1 lfo3'><b style='mso-bidi-font-weight:
-     normal'><i style='mso-bidi-font-style:normal'><span lang=EN>The Little
+<ol style="margin-top:0in" start="2" type="1">
+ <li class="MsoNormal" style="mso-list:l0 level1 lfo3"><b style="mso-bidi-font-weight:
+     normal"><i style="mso-bidi-font-style:normal"><span lang="EN">The Little
      Book of Java Adventure Game Programming: Learn Object Oriented
-     Programming&#8211;advanced coding techniques.</span></i></b></li>
+     Programming–advanced coding techniques.</span></i></b></li>
 </ol>
 
-<p class=MsoNormal><span lang=EN><o:p>&nbsp;</o:p></span></p>
+<p class="MsoNormal"><span lang="EN"><o:p>&nbsp;</o:p></span></p>
 
-<p class=MsoNormal><span lang=EN>Today I learned that Object-Oriented
+<p class="MsoNormal"><span lang="EN">Today I learned that Object-Oriented
 Programming can also be referred to as Class-Oriented Programming.</span></p>
 
-<p class=MsoNormal style='margin-left:.5in;text-indent:-.25in;mso-list:l1 level1 lfo1'><![if !supportLists]><span
-lang=EN><span style='mso-list:Ignore'>&#9679;<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span></span><![endif]><span lang=EN>Got the syntax down. <span
-class=GramE>{<span style='mso-spacerun:yes'>&nbsp; </span>and</span> ;</span></p>
+<p class="MsoNormal" style="margin-left:.5in;text-indent:-.25in;mso-list:l1 level1 lfo1"><!--[if !supportLists]--><span lang="EN"><span style="mso-list:Ignore">●<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><!--[endif]--><span lang="EN">Got the syntax down. <span class="GramE">{<span style="mso-spacerun:yes">&nbsp; </span>and</span> ;</span></p>
 
-<p class=MsoNormal style='margin-left:.5in;text-indent:-.25in;mso-list:l1 level1 lfo1'><![if !supportLists]><span
-lang=EN><span style='mso-list:Ignore'>&#9679;<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span></span><![endif]><span lang=EN>Methods have a Type, Name, and
+<p class="MsoNormal" style="margin-left:.5in;text-indent:-.25in;mso-list:l1 level1 lfo1"><!--[if !supportLists]--><span lang="EN"><span style="mso-list:Ignore">●<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><!--[endif]--><span lang="EN">Methods have a Type, Name, and
 Parameter</span></p>
 
-<p class=MsoNormal style='margin-left:.5in;text-indent:-.25in;mso-list:l1 level1 lfo1'><![if !supportLists]><span
-lang=EN><span style='mso-list:Ignore'>&#9679;<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span></span><![endif]><span class=GramE><span lang=EN>.In</span></span><span
-lang=EN> Object-Oriented Programming similar data can be grouped together and
+<p class="MsoNormal" style="margin-left:.5in;text-indent:-.25in;mso-list:l1 level1 lfo1"><!--[if !supportLists]--><span lang="EN"><span style="mso-list:Ignore">●<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><!--[endif]--><span class="GramE"><span lang="EN">.In</span></span><span lang="EN"> Object-Oriented Programming similar data can be grouped together and
 separate from other data.</span></p>
 
-<p class=MsoNormal><span lang=EN style='mso-no-proof:yes'><!--[if gte vml 1]><v:shapetype
+<p class="MsoNormal"><span lang="EN" style="mso-no-proof:yes"><!--[if gte vml 1]><v:shapetype
  id="_x0000_t75" coordsize="21600,21600" o:spt="75" o:preferrelative="t"
  path="m@4@5l@4@11@9@11@9@5xe" filled="f" stroked="f">
  <v:stroke joinstyle="miter"/>
@@ -1279,14 +1252,14 @@ separate from other data.</span></p>
 </v:shapetype><v:shape id="image1.png" o:spid="_x0000_i1025" type="#_x0000_t75"
  style='width:468pt;height:305.25pt;visibility:visible;mso-wrap-style:square'>
  <v:imagedata src="100-days-of-code(2)_files/image001.png" o:title=""/>
-</v:shape><![endif]--><![if !vml]><img border=0 width=624 height=407
-src="100-days-of-code(2)_files/image002.gif" v:shapes="image1.png"><![endif]></span></p>
+</v:shape><![endif]--><!--[if !vml]--><img border="0" width="624" height="407" src="100-days-of-code(2)_files/image002.gif" v:shapes="image1.png"><!--[endif]--></span></p>
 
-<p class=MsoNormal><span lang=EN><o:p>&nbsp;</o:p></span></p>
+<p class="MsoNormal"><span lang="EN"><o:p>&nbsp;</o:p></span></p>
 
 </div>
 
-</body>
 
-</html>
 
+
+
+</body></html>
