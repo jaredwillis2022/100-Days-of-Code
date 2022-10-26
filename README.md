@@ -87,12 +87,10 @@
                                                                                         href="https://www.google.com/url?q=https://www.youtube.com/watch?v%3DTE3LyYW-AHQ&amp;sa=D&amp;source=editors&amp;ust=1666751210620035&amp;usg=AOvVaw0f2GJTm86dXuJLt-hXuac6">https://www.youtube.com/watch?v=TE3LyYW-AHQ</a></span>
 </p>
 <p class="c7"><span class="c0"></span></p>
-![image](https://user-images.githubusercontent.com/106271491/197914030-bda33b11-a035-41d8-8be6-2dc5b82c2b6e.png)
 
 <p class="c9"><span>Another great roadmap. </span><span class="c15"><a class="c1"
                                                                        href="https://www.google.com/url?q=https://roadmap.sh/java&amp;sa=D&amp;source=editors&amp;ust=1666751210620613&amp;usg=AOvVaw2XuXQ0-Tcwzt77xRIGBvR0">https://roadmap.sh/java</a></span>
 </p>
-![image](https://user-images.githubusercontent.com/106271491/197914087-f37ad7ee-9a85-405b-9008-201cceaae03a.png)
 
 <h1 class="c19" id="h.vrk0ixeto6ua"><span class="c4">Day 4</span></h1>
 <h2 class="c12" id="h.kj0nigd7aong"><span class="c13">October 24, 2022 (Total Time&ndash;1 Hour)</span></h2>
